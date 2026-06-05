@@ -1,0 +1,5 @@
+bordi 260
+baba 190
+noyon 177
+maa 157
+pranto 77
